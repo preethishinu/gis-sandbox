@@ -1,0 +1,4 @@
+gis-sandbox
+===========
+
+A GIS system developed using RoR, to test its functionality and abilities.
